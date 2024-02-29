@@ -64,6 +64,7 @@ Just My Socks 官网：[Just My Socks 官网](https://justmysocks3.net/members/a
 [![Just My Socks优惠码，若图片无法显示请点击查看](images/jms-2.png)](images/jms-2.png)
 
 <span id="just_my_socks-4">  
+
 ## 四、Just My Socks注册
 
 这里需要填写你Just My Socks账号的信息：**不要挂代理注册，如实填写**，否则可能被认为欺诈，其中省份直接写拼音即可（例如Shandong），选择支付方式为Paypal（Paypal）或 Alipay（支付宝），勾选同意服务条款后，点击：Complete Order（完成订单）：
@@ -73,6 +74,7 @@ Just My Socks 官网：[Just My Socks 官网](https://justmysocks3.net/members/a
 付款完成后，你的Just My Socks服务就购买完成了。
 
 <span id="just_my_socks-5">  
+
 ## 五、Just My Socks信息查看</span>  
 
 完成Just My Socks购买后，登陆[Just My Socks 官网](https://justmysocks3.net/members/aff.php?aff=14295&language=chinese)，选择Services（服务）->My Services（我的服务），就可以看到你刚才买的服务了，点击这个服务查看详情：
@@ -84,6 +86,7 @@ Just My Socks 官网：[Just My Socks 官网](https://justmysocks3.net/members/a
 [![Just My Socks shadowsocks详情，若图片无法显示请点击查看](images/jms-5.png)](images/jms-5.png)
 
 <span id="just_my_socks-6">  
+
 ## 六、Just My Socks怎么用
 
 有了Shadowsocks/V2ray账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks/V2ray客户端（***请使用下图中的[Just My Socks 官网](https://justmysocks3.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html)的下载链接下载客户端***），然后将购买的服务器导入客户端即可使用啦。
