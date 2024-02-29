@@ -1,4 +1,4 @@
-# Just My Socks：搬瓦工官方翻墙服务，多条线路，无需自己架设服务器，自动探知被封IP并更换
+# Just My Socks：搬瓦工官方服务，多条线路，无需自己架设服务器，自动探知被封IP并更换
 
 ## 力荐！Just My Socks - 非常靠谱稳定的shadowsocks/V2ray代理服务！
 
