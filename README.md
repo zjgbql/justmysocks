@@ -47,7 +47,7 @@ Just My Socks是**搬瓦工官方**出品的Shadowsocks/V2ray代理服务，支�
 | 香港线路 1000       | 1 G    | 1000 GB / 月 | $279.99 / 月 | 不限制设备数量    | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=11&language=chinese) |
 | 香港 IPLC 线路 100 | 100M    | 100 GB / 月 | $15 / 月 | 最多3个设备同时在线(** 只适用 OPENVPN **)    | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=17&language=chinese) |
 
-**我该选择哪一款Just My Socks？**一般来说，如果只是谷歌查资料，直接选择最便宜的方案就行，如果你爱看视频，并且非常频繁，那么就选择500或者1000的，需要注意的是<font color="red"> 便宜方案都有设备限制 </font> ，如果你想多个人一起用，那么建议选择1000的，不限制设备数量。
+**我该选择哪一款Just My Socks？** 一般来说，如果只是谷歌查资料，直接选择最便宜的方案就行，如果你爱看视频，并且非常频繁，那么就选择500或者1000的，需要注意的是<font color="red"> 便宜方案都有设备限制 </font> ，如果你想多个人一起用，那么建议选择1000的，不限制设备数量。
 
 选择合适的Just My Socks方案后，点击“立即购买”进入购买页，确认配置无误后，建议年付（Annually），只需要付10个月的价格，点击：继续（Continue）：
 
