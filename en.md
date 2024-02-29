@@ -45,7 +45,7 @@
 <tbody>
 <tr>
 <td>JMS500</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&pid=1"> Buy now </a></td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&pid=1" target="_blank"> Buy now </a></td>
 <td>2.5 GB</td>
 <td>500 GB / month</td>
 <td>$ 5.88 / month</td>
@@ -53,7 +53,7 @@
 </tr>
 <tr>
 <td>JMS1000</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&pid=2"> Buy now </a></td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&pid=2" target="_blank"> Buy now </a></td>
 <td>5 GB</td>
 <td>1TB / month</td>
 <td>$ 9.88 / month</td>
@@ -61,7 +61,7 @@
 </tr>
 <tr>
 <td>JMS5000</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&pid=3"> Buy now </a></td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&pid=3" target="_blank"> Buy now </a></td>
 <td>5 GB</td>
 <td>5TB / month</td>
 <td>$ 48.99 / month</td>
@@ -74,7 +74,7 @@
 
 After choosing the appropriate `Just My Socks` plan, click "Buy Now" to enter the purchase page. After confirming that the configuration is correct, it is recommended to pay Annually. You only need to pay for 10 months. Click Continue to continue:
 <br class="keepp">
-`Just My Socks` official website: <a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&gid=1"> `Just My Socks` official website </a>
+`Just My Socks` official website: <a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&gid=1" target="_blank"> `Just My Socks` official website </a>
 
 <a href="images/jms-1.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="images/jms-1.png" alt =" `Just My Socks` Buying Tutorial "/> </a>
 ## <span id = "user-content-just3"> <span id = "just_my_socks-3"> Three, `Just My Socks` discount code </span> </span>
@@ -93,7 +93,7 @@ After paying , your `Just My Socks` service is purchased.
 
 ## <span id = "user-content-just5"> <span id = "just_my_socks-5"> Fifth, `Just My Socks` information view </span> </span>
 
-After completing `Just My Socks` purchase, log in to <a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295"> `Just My Socks` official website </a>, select Services-> My Services, and you will see you Just bought the service, click this service to see details:
+After completing `Just My Socks` purchase, log in to <a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295" target="_blank"> `Just My Socks` official website </a>, select Services-> My Services, and you will see you Just bought the service, click this service to see details:
 <br class="keepp">
 <a href="images/jms-4.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="images/jms-4.png" alt =" `Just My Socks` My Services "/> </a>
 
@@ -105,7 +105,7 @@ Here you can see the details of `Shadowsocks/V2ray` servers, including encryptio
 
 After I have a `Shadowsocks/V2ray` server, how do I use it next? The rest only needs to download and install the `Shadowsocks/V2ray` client and import the purchased server to use it.
 
-<h3> On the <a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295">just_my_socks website</a>, refer to the following figure to download the client corresponding to the operating system </h3>
+<h3> On the <a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295" target="_blank">just_my_socks website</a>, refer to the following figure to download the client corresponding to the operating system </h3>
 
 <img style = "max-width: 100%" src = "images/dcen.jpg" alt = "SS client download" />
 
