@@ -172,7 +172,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/
 </p>
 <h2 id="user-content-just4"><span id="just_my_socks-4">四、Just My Socks注册</span></h2>
 <p class="keepp">
-这里需要填写你Just My Socks账号的信息：<strong>不要挂代理注册，如实填写</strong>，否则可能被认为欺诈，其中省份直接写拼音即可（例如Shandong），选择支付方式为Paypal（Paypal更安全）或 Alipay（支付宝），勾选同意服务条款后，点击：Complete Order（完成订单）：
+这里需要填写你Just My Socks账号的信息：<strong>不要挂代理注册，如实填写</strong>，否则可能被认为欺诈，其中省份直接写拼音即可（例如Shandong），选择支付方式为Paypal（Paypal）或 Alipay（支付宝），勾选同意服务条款后，点击：Complete Order（完成订单）：
 <br class="keepp">
 <a href="images/jms-3.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="images/jms-3.png" alt="Just My Socks 注册信息，若图片无法显示请点击查看" /></a>
 <br class="keepp">
@@ -191,7 +191,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/
 </p>
 <h2 id="user-content-just6"><span id="just_my_socks-6">六、Just My Socks怎么用</span></h2>
 
-有了Shadowsocks/V2ray账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks/V2ray客户端（***注意：Just My Socks不支持SSR，不要使用SSR客户端，请使用下图中的<a rel="nofollow" href="https://justmysocks3.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html">Just My Socks 官网</a>的下载链接下载客户端***），然后将购买的服务器导入客户端即可使用啦。
+有了Shadowsocks/V2ray账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks/V2ray客户端（***请使用下图中的<a rel="nofollow" href="https://justmysocks3.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html">Just My Socks 官网</a>的下载链接下载客户端***），然后将购买的服务器导入客户端即可使用啦。
 
 <b>第1～5条线路介绍</b>
 
@@ -205,13 +205,13 @@ cXs1，cXs2和cXs5通过CN2 GT网络与其他中国联通和中国移动直接�
 
 <b>第6条线路：什么是Freedom服务器（s801）？</b>
 
-Freedom服务器可以提供更多的数据传输，具体取决于当前的乘数。该服务器提供了较便宜的路由，并且不提供任何形式的保证。用它来节省您的每月数据传输津贴。
+Freedom服务器可以提供更多的数据传输，具体取决于当前的乘数。该服务器提供了较便宜的路由，并且不提供任何形式的保证。用它来节省您的每月数据传输配额。
 
 例如，如果当前数据传输倍数= 10，那么您下载的所有内容中只有1/10会计入每月数据配额。
 
 实际示例：假设您下载20GB的文件。如果您使用s1..s5范围内的服务器进行下载，则系统将计入所有20GB的数据传输（加上任何TCP开销）。 但是，如果您使用服务器s801进行此传输，并且当前乘数为10，则系统将仅占该传输的1/10（20 GB / 10 = 2 GB）
 
-注意：数据传输乘数可以随时更改。官方不提供有关服务器s801的任何质量或正常运行时间保证。它是出于礼貌提供的，可以随时脱机使用。
+注意：数据传输乘数可以随时更改。官方不提供有关服务器s801的任何质量或正常运行时间保证。
 
 备注：上面是官方解释，简单点就是最后一条线路没有前面5条线路好，所以使用它时流量消耗会进行打折，相当于可以节省流量，但速度要慢点，主要取决于自己的需求。
 
