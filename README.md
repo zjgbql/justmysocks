@@ -158,7 +158,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
 <strong>我该选择哪一款Just My Socks？</strong>一般来说，如果只是谷歌查资料，直接选择最便宜的方案就行，如果你爱看视频，并且非常频繁，那么就选择500或者1000的，需要注意的是<span style="color: #ff0000;">便宜方案都有设备限制</span>，如果你想多个人一起用，那么建议选择1000的，不限制设备数量。
 </p>
 <p class="keepp">
-选择合适的Just My Socks方案后，点击“立即购买”进入购买页，确认配置无误后，建议年付（Annually），只需要付10个月的价格，点击Continue继续：
+选择合适的Just My Socks方案后，点击“立即购买”进入购买页，确认配置无误后，建议年付（Annually），只需要付10个月的价格，点击：继续（Continue）：
 <br class="keepp">
 Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&language=chinese">Just My Socks 官网</a>
 </p>
@@ -166,21 +166,21 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/
 <a href="images/jms-1.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="images/jms-1.png" alt="Just My Socks 购买教程，若图片无法显示请点击查看" /></a>
 <h2 id="user-content-just3"><span id="just_my_socks-3">三、Just My Socks优惠码</span></h2>
 <p class="keepp">
-在购买Just My Socks时，我们可以使用Just My Socks优惠码：<strong>JMS9272283</strong>获取5.2%循环优惠，输入优惠码后点击Validate Code即可使用优惠码，点击Checkout付款：
+在购买Just My Socks时，我们可以使用Just My Socks优惠码：<strong>JMS9272283</strong>获取5.2%循环优惠，输入优惠码后点击：验证代码（Validate Code）即可使用优惠码，点击：付款（Checkout）：
 <br class="keepp">
 <a href="images/jms-2.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="images/jms-2.png" alt="Just My Socks优惠码，若图片无法显示请点击查看" /></a>
 </p>
 <h2 id="user-content-just4"><span id="just_my_socks-4">四、Just My Socks注册</span></h2>
 <p class="keepp">
-这里需要填写你Just My Socks账号的信息：<strong>不要挂代理注册，如实填写</strong>，否则可能被认为欺诈，其中省份直接写拼音即可（例如Shandong），选择支付方式为Paypal（Paypal更安全）或 Alipay（支付宝），勾选同意服务条款后，点击Complete Order完成订单：
+这里需要填写你Just My Socks账号的信息：<strong>不要挂代理注册，如实填写</strong>，否则可能被认为欺诈，其中省份直接写拼音即可（例如Shandong），选择支付方式为Paypal（Paypal更安全）或 Alipay（支付宝），勾选同意服务条款后，点击：Complete Order（完成订单）：
 <br class="keepp">
 <a href="images/jms-3.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="images/jms-3.png" alt="Just My Socks 注册信息，若图片无法显示请点击查看" /></a>
 <br class="keepp">
-用支付宝付款完成后，你的Just My Socks服务就购买完成了。
+付款完成后，你的Just My Socks服务就购买完成了。
 </p>
 <h2 id="user-content-just5"><span id="just_my_socks-5">五、Just My Socks信息查看</span></h2>
 <p class="keepp">
-完成Just My Socks购买后，登陆<a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&language=chinese">Just My Socks 官网</a>，选择Services->My Services，就可以看到你刚才买的服务了，点击这个服务查看详情：
+完成Just My Socks购买后，登陆<a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&language=chinese">Just My Socks 官网</a>，选择Services（服务）->My Services（我的服务），就可以看到你刚才买的服务了，点击这个服务查看详情：
 <br class="keepp">
 <a href="images/jms-4.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="images/jms-4.png" alt="Just My Socks 我的服务，若图片无法显示请点击查看" /></a>
 </p>
@@ -220,6 +220,4 @@ Freedom服务器可以提供更多的数据传输，具体取决于当前的乘�
 <img style="max-width:100%" src="images/dcen.jpg" alt="SS client download，若图片无法显示请点击查看" />
 <p class="keepp"><strong>注意：如果购买后试用不满意，可申请退款：</strong><a href="jmstk.md"  rel="nofollow">Just My Socks 怎么退款（退款条件）</a></p>
 <p class="keepp"><strong>反馈交流：</strong><a href="https://github.com/zjgbql/justmysocks/issues"  rel="nofollow">如果有任何问题，欢迎大家交流！</a></p>
-<p class="keepp"><strong>更多内容可以访问</strong><a href="https://justmysockss3.net/"  rel="nofollow">JustMySocks中文站</a></p>
-<p class="keepp"><strong>免责声明：</strong>本库一切资源仅用作交流学习，请勿用作商业或违法行为！如造成任何后果，本库概不负责！</p>
 
