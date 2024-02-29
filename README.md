@@ -19,13 +19,13 @@ Just My Socks是目前非常火热的一个Shadowsocks/V2ray服务商（机场�
 ## 一、Just My Socks介绍
 Just My Socks是**搬瓦工官方**出品的Shadowsocks/V2ray代理服务，支持支付宝付款，提供ss账号，每个账号有5条线路，包括**搬瓦工CN2 GIA线路**，性价比很高且非常稳定，比买VPS灵活划算且省得折腾，**保证IP可用，被封自动切换**。
 
-**Just My Socks靠谱吗？**不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近6年了（2018年10月推出的），可以说非常靠谱。
+**Just My Socks靠谱吗？** 不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近6年了（2018年10月推出的），可以说非常靠谱。
 
-**Just My Socks怎么样？**每个ss账号有5个线路，包括最快的搬瓦工CN2 GIA线路，速度很快。
+**Just My Socks怎么样？** 每个ss账号有5个线路，包括最快的搬瓦工CN2 GIA线路，速度很快。
 
-**哪些人适合用Just My Socks？**如果你只是为了翻墙看看YouTube、刷刷ins，使用ChatGPT或者谷歌，那么你完全不需要折腾VPS，自建ss，Just My Socks可以非常方便的达到这些需求。
+**哪些人适合用Just My Socks？** 如果你只是为了翻墙看看YouTube、刷刷ins，使用ChatGPT或者谷歌，那么你完全不需要折腾VPS，自建ss，Just My Socks可以非常方便的达到这些需求。
 
-**Just My Socks 是否支持ChatGPT访问？**目前JMS已经可以支持ChatGPT访问了，另外官方也经常对ChatGPT访问做优化。
+**Just My Socks 是否支持ChatGPT访问？** 目前JMS已经可以支持ChatGPT访问了，另外官方也经常对ChatGPT访问做优化。
 
 <span id="just_my_socks-2"></span>  
 ## 二、Just My Socks购买
