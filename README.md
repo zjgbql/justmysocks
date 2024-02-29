@@ -6,12 +6,12 @@
 
 ## 文章目录
 
-1.  [Just My Socks介绍](#user-content-just1)
-2.  [Just My Socks购买](#user-content-just2)
-3.  [Just My Socks优惠码](#user-content-just3)
-4.  [Just My Socks注册](#user-content-just4)
-5.  [Just My Socks信息查看](#user-content-just5)
-6.  [Just My Socks怎么用](#user-content-just6)
+1.  [Just My Socks介绍](#just_my_socks)
+2.  [Just My Socks购买](#ujust_my_socks-2)
+3.  [Just My Socks优惠码](#just_my_socks-3)
+4.  [Just My Socks注册](#just_my_socks-4)
+5.  [Just My Socks信息查看](#just_my_socks-5)
+6.  [Just My Socks怎么用](#just_my_socks-6)
 
 Just My Socks是目前非常火热的一个Shadowsocks/V2ray服务商（机场），由搬瓦工官方推出，每个服务提供5条线路，包括最快的CN2 GIA线路。Just My Socks最大的优势是保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。
 
