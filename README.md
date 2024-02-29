@@ -27,8 +27,8 @@ Just My Socks是**搬瓦工官方**出品的Shadowsocks/V2ray代理服务，支�
 
 **Just My Socks 是否支持ChatGPT访问？**目前JMS已经可以支持ChatGPT访问了，另外官方也经常对ChatGPT访问做优化。
 
-## <span id="just_my_socks-2">二、Just My Socks购买</span>
-
+<span id="just_my_socks-2"></span>  
+## 二、Just My Socks购买
 目前，Just My Socks提供以下方案：  
 <font color="red">***移动端用户访问左划表格处显示购买链接***</font>
 
@@ -53,15 +53,18 @@ Just My Socks是**搬瓦工官方**出品的Shadowsocks/V2ray代理服务，支�
 
 Just My Socks 官网：[Just My Socks 官网](https://justmysocks3.net/members/aff.php?aff=14295&language=chinese)
 
-[![Just My Socks 购买教程，若图片无法显示请点击查看](images/jms-1.png)](images/jms-1.png)
+[![Just My Socks 购买教程，若图片无法显示请点击查看](images/jms-1.png)](images/jms-1.png)  
 
-## <span id="just_my_socks-3">三、Just My Socks优惠码</span>
+<span id="just_my_socks-3"></span>  
+
+## 三、Just My Socks优惠码
 
 在购买Just My Socks时，我们可以使用Just My Socks优惠码：**JMS9272283**获取5.2%循环优惠，输入优惠码后点击：验证代码（Validate Code）即可使用优惠码，点击：付款（Checkout）：
 
 [![Just My Socks优惠码，若图片无法显示请点击查看](images/jms-2.png)](images/jms-2.png)
 
-## <span id="just_my_socks-4">四、Just My Socks注册</span>
+<span id="just_my_socks-4">  
+## 四、Just My Socks注册
 
 这里需要填写你Just My Socks账号的信息：**不要挂代理注册，如实填写**，否则可能被认为欺诈，其中省份直接写拼音即可（例如Shandong），选择支付方式为Paypal（Paypal）或 Alipay（支付宝），勾选同意服务条款后，点击：Complete Order（完成订单）：
 
@@ -69,7 +72,8 @@ Just My Socks 官网：[Just My Socks 官网](https://justmysocks3.net/members/a
 
 付款完成后，你的Just My Socks服务就购买完成了。
 
-## <span id="just_my_socks-5">五、Just My Socks信息查看</span>
+<span id="just_my_socks-5">  
+## 五、Just My Socks信息查看</span>  
 
 完成Just My Socks购买后，登陆[Just My Socks 官网](https://justmysocks3.net/members/aff.php?aff=14295&language=chinese)，选择Services（服务）->My Services（我的服务），就可以看到你刚才买的服务了，点击这个服务查看详情：
 
@@ -79,7 +83,8 @@ Just My Socks 官网：[Just My Socks 官网](https://justmysocks3.net/members/a
 
 [![Just My Socks shadowsocks详情，若图片无法显示请点击查看](images/jms-5.png)](images/jms-5.png)
 
-## <span id="just_my_socks-6">六、Just My Socks怎么用</span>
+<span id="just_my_socks-6">  
+## 六、Just My Socks怎么用
 
 有了Shadowsocks/V2ray账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks/V2ray客户端（***请使用下图中的[Just My Socks 官网](https://justmysocks3.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html)的下载链接下载客户端***），然后将购买的服务器导入客户端即可使用啦。
 
