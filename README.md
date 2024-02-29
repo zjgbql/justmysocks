@@ -34,12 +34,12 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
 <table id="tablepress-1">
 <thead>
 <tr>
-<th>方案名称</th>
+<th>方案</th>
 <th>带宽</th>
 <th>流量</th>
 <th>价格</th>
-<th>设备限制</th>
-<th>购买链接</th>
+<th>限制</th>
+<th>链接</th>
 </tr>
 </thead>
 <tbody>
