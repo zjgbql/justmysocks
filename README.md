@@ -32,20 +32,20 @@ Just My Socks是**搬瓦工官方**出品的Shadowsocks/V2ray代理服务，支�
 目前，Just My Socks提供以下方案：  
 <font color="red">***移动端用户访问【左划下方表格处】显示购买链接***</font>
 
-| **方案**          | **带宽** | **流量**      | **价格**      | **限制**     | **链接**                                                                             |
+| **方案**          | **链接** | **带宽**      | **流量**      | **价格**     | **限制**                                                                             |
 |:---------------:|:------:|:-----------:|:-----------:|:----------:|:----------------------------------------------------------------------------------:|
-| 洛杉矶线路 500       | 2.5 G  | 500 GB / 月  | $5.88 / 月   | 最多5个设备同时在线 | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=2&language=chinese)  |
-| 洛杉矶线路 1000      | 5 G    | 1TB / 月     | $9.88 / 月   | 不限制设备数量    | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=3&language=chinese)  |
-| 洛杉矶线路 5000      | 5 G    | 5TB / 月     | $48.99 / 月  | 不限制设备数量    | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=4&language=chinese)  |
-| 英国伦敦线路 500      | 2.5 G  | 500 GB / 月  | $6.80 / 月   | 最多5个设备同时在线 | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=12&language=chinese) |
-| 英国伦敦线路 1000     | 5 G    | 1TB / 月     | $11.29 / 月  | 不限制设备数量    | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=14&language=chinese) |
-| 香港CMI+NTT方案 500 | 2.5 G  | 500 GB / 月  | $8.99 / 月   | 最多5个设备同时在线 | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=13&language=chinese) |
-| 日本东京线路 100      | 100M   | 100 GB / 月  | $29.99 / 月  | 最多3个设备同时在线 | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=5&language=chinese)  |
-| 日本东京线路 500      | 200M   | 500 GB / 月  | $135.99 / 月 | 最多5个设备同时在线 | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=6&language=chinese)  |
-| 香港线路 100        | 100M   | 100 GB / 月  | $34.99 / 月  | 最多3个设备同时在线 | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=7&language=chinese)  |
-| 香港线路 500        | 500M   | 500 GB / 月  | $149.99 / 月 | 最多5个设备同时在线 | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=8&language=chinese)  |
-| 香港线路 1000       | 1 G    | 1000 GB / 月 | $279.99 / 月 | 不限制设备数量    | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=11&language=chinese) |
-| 香港 IPLC 线路 100 | 100M    | 100 GB / 月 | $15 / 月 | 最多3个设备同时在线(** 只适用 OPENVPN **)    | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=17&language=chinese) |
+| 洛杉矶线路 500       | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=2&language=chinese)  | 2.5 G  | 500 GB / 月  | $5.88 / 月   | 最多5个设备同时在线 | 
+| 洛杉矶线路 1000      | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=3&language=chinese)  | 5 G    | 1TB / 月     | $9.88 / 月   | 不限制设备数量    | 
+| 洛杉矶线路 5000      | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=4&language=chinese)  | 5 G    | 5TB / 月     | $48.99 / 月  | 不限制设备数量    | 
+| 英国伦敦线路 500      |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=12&language=chinese) | 2.5 G  | 500 GB / 月  | $6.80 / 月   | 最多5个设备同时在线 |
+| 英国伦敦线路 1000     |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=14&language=chinese) | 5 G    | 1TB / 月     | $11.29 / 月  | 不限制设备数量    |
+| 香港CMI+NTT方案 500 |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=13&language=chinese) | 2.5 G  | 500 GB / 月  | $8.99 / 月   | 最多5个设备同时在线 |
+| 日本东京线路 100      |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=5&language=chinese)  | 100M   | 100 GB / 月  | $29.99 / 月  | 最多3个设备同时在线 |
+| 日本东京线路 500      |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=6&language=chinese)  | 200M   | 500 GB / 月  | $135.99 / 月 | 最多5个设备同时在线 |
+| 香港线路 100        |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=7&language=chinese)  | 100M   | 100 GB / 月  | $34.99 / 月  | 最多3个设备同时在线 |
+| 香港线路 500        |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=8&language=chinese)  | 500M   | 500 GB / 月  | $149.99 / 月 | 最多5个设备同时在线 |
+| 香港线路 1000       |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=11&language=chinese) | 1 G    | 1000 GB / 月 | $279.99 / 月 | 不限制设备数量    |
+| 香港 IPLC 线路 100 |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=17&language=chinese) | 100M    | 100 GB / 月 | $15 / 月 | 最多3个设备同时在线(** 只适用 OPENVPN **)    |
 
 **我该选择哪一款Just My Socks？** 一般来说，如果只是谷歌查资料，直接选择最便宜的方案就行，如果你爱看视频，并且非常频繁，那么就选择500或者1000的，需要注意的是<font color="red"> 便宜方案都有设备限制 </font> ，如果你想多个人一起用，那么建议选择1000的，不限制设备数量。
 
