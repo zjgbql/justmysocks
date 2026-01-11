@@ -23,7 +23,7 @@ Just My Socks是**搬瓦工官方**出品的Shadowsocks/V2ray代理服务，支�
 
 **Just My Socks怎么样？** 每个ss账号有5个线路，包括最快的搬瓦工CN2 GIA线路，速度很快。
 
-**哪些人适合用Just My Socks？** 如果你只是为了翻墙看看YouTube、刷刷ins，使用ChatGPT或者谷歌，那么你完全不需要折腾VPS，自建ss，Just My Socks可以非常方便的达到这些需求。
+**哪些人适合用Just My Socks？** 如果你只是为了翻墙看看YouTube、刷刷ins，使用ChatGPT或者谷歌，那么你完全不需要折腾VPS，自建ss，Just My Socks can very conveniently 达到这些需求。
 
 **Just My Socks 是否支持ChatGPT访问？** 目前JMS已经可以支持ChatGPT访问了，另外官方也经常对ChatGPT访问做优化。
 
@@ -31,7 +31,9 @@ Just My Socks是**搬瓦工官方**出品的Shadowsocks/V2ray代理服务，支�
 ## 二、Just My Socks购买
 目前，Just My Socks提供以下方案：  
 
-| **方案**          | **链接** | **带宽**      | **流量**      | **价格**     | **限制**                                                                             |
+<div style="overflow-x: auto;">
+
+| **方案** | **链接** | **带宽** | **流量** | **价格** | **限制** |
 |:---------------:|:------:|:-----------:|:-----------:|:----------:|:----------------------------------------------------------------------------------:|
 | 洛杉矶线路 500       | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=2&language=chinese)  | 2.5 G  | 500 GB / 月  | $5.88 / 月   | 最多5个设备同时在线 | 
 | 洛杉矶线路 1000      | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=3&language=chinese)  | 5 G    | 1TB / 月     | $9.88 / 月   | 不限制设备数量    | 
@@ -45,6 +47,8 @@ Just My Socks是**搬瓦工官方**出品的Shadowsocks/V2ray代理服务，支�
 | 香港线路 500        |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=8&language=chinese)  | 500M   | 500 GB / 月  | $149.99 / 月 | 最多5个设备同时在线 |
 | 香港线路 1000       |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=11&language=chinese) | 1 G    | 1000 GB / 月 | $279.99 / 月 | 不限制设备数量    |
 | 香港 IPLC 线路 100 |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=17&language=chinese) | 100M    | 100 GB / 月 | $15 / 月 | 最多3个设备同时在线(** 只适用 OPENVPN **)    |
+
+</div>
 
 **我该选择哪一款Just My Socks？** 一般来说，如果只是谷歌查资料，直接选择最便宜的方案就行，如果你爱看视频，并且非常频繁，那么就选择500或者1000的，需要注意的是<font color="red"> 便宜方案都有设备限制 </font> ，如果你想多个人一起用，那么建议选择1000的，不限制设备数量。
 
