@@ -1,126 +1,137 @@
-# Just My Socks：搬瓦工官方服务，多条线路，无需自己架设服务器，自动探知被封IP并更换
+# 🚀 Just My Socks：搬瓦工官方机场服务
 
-## 力荐！Just My Socks - 非常靠谱稳定的shadowsocks/V2ray代理服务！
+<div align="center">
 
-## 可以用于ChatGPT访问使用！
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![Support](https://img.shields.io/badge/Support-ChatGPT%20%7C%20Youtube-blue.svg)
+![Network](https://img.shields.io/badge/Network-CN2%20GIA-critical.svg)
+![Official](https://img.shields.io/badge/BandwagonHost-Official-orange.svg)
 
-## 文章目录
+**无需自建 • 自动换IP • 5条线路 • 极速稳定**
 
-1.  [Just My Socks介绍](#just_my_socks)
-2.  [Just My Socks购买](#just_my_socks-2)
-3.  [Just My Socks优惠码](#just_my_socks-3)
-4.  [Just My Socks注册](#just_my_socks-4)
-5.  [Just My Socks信息查看](#just_my_socks-5)
-6.  [Just My Socks怎么用](#just_my_socks-6)
-
-Just My Socks是目前非常火热的一个Shadowsocks/V2ray服务商（机场），由搬瓦工官方推出，每个服务提供5条线路，包括最快的CN2 GIA线路。Just My Socks最大的优势是保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。
-
-<span id="just_my_socks"></span>  
-## 一、Just My Socks介绍
-Just My Socks是**搬瓦工官方**出品的Shadowsocks/V2ray代理服务，支持支付宝付款，提供ss账号，每个账号有5条线路，包括**搬瓦工CN2 GIA线路**，性价比很高且非常稳定，比买VPS灵活划算且省得折腾，**保证IP可用，被封自动切换**。
-
-**Just My Socks靠谱吗？** 不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近6年了（2018年10月推出的），可以说非常靠谱。
-
-**Just My Socks怎么样？** 每个ss账号有5个线路，包括最快的搬瓦工CN2 GIA线路，速度很快。
-
-**哪些人适合用Just My Socks？** 如果你只是为了翻墙看看YouTube、刷刷ins，使用ChatGPT或者谷歌，那么你完全不需要折腾VPS，自建ss，Just My Socks can very conveniently 达到这些需求。
-
-**Just My Socks 是否支持ChatGPT访问？** 目前JMS已经可以支持ChatGPT访问了，另外官方也经常对ChatGPT访问做优化。
-
-<span id="just_my_socks-2"></span>  
-## 二、Just My Socks购买
-目前，Just My Socks提供以下方案：  
-
-<div style="overflow-x: auto;">
-
-| **方案** | **链接** | **带宽** | **流量** | **价格** | **限制** |
-|:---------------:|:------:|:-----------:|:-----------:|:----------:|:----------------------------------------------------------------------------------:|
-| 洛杉矶线路 500       | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=2&language=chinese)  | 2.5 G  | 500 GB / 月  | $5.88 / 月   | 最多5个设备同时在线 | 
-| 洛杉矶线路 1000      | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=3&language=chinese)  | 5 G    | 1TB / 月     | $9.88 / 月   | 不限制设备数量    | 
-| 洛杉矶线路 5000      | [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=4&language=chinese)  | 5 G    | 5TB / 月     | $48.99 / 月  | 不限制设备数量    | 
-| 英国伦敦线路 500      |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=12&language=chinese) | 2.5 G  | 500 GB / 月  | $6.80 / 月   | 最多5个设备同时在线 |
-| 英国伦敦线路 1000     |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=14&language=chinese) | 5 G    | 1TB / 月     | $11.29 / 月  | 不限制设备数量    |
-| 香港CMI+NTT方案 500 |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=13&language=chinese) | 2.5 G  | 500 GB / 月  | $8.99 / 月   | 最多5个设备同时在线 |
-| 日本东京线路 100      |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=5&language=chinese)  | 100M   | 100 GB / 月  | $29.99 / 月  | 最多3个设备同时在线 |
-| 日本东京线路 500      |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=6&language=chinese)  | 200M   | 500 GB / 月  | $135.99 / 月 | 最多5个设备同时在线 |
-| 香港线路 100        |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=7&language=chinese)  | 100M   | 100 GB / 月  | $34.99 / 月  | 最多3个设备同时在线 |
-| 香港线路 500        |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=8&language=chinese)  | 500M   | 500 GB / 月  | $149.99 / 月 | 最多5个设备同时在线 |
-| 香港线路 1000       |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=11&language=chinese) | 1 G    | 1000 GB / 月 | $279.99 / 月 | 不限制设备数量    |
-| 香港 IPLC 线路 100 |  [立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=17&language=chinese) | 100M    | 100 GB / 月 | $15 / 月 | 最多3个设备同时在线(** 只适用 OPENVPN **)    |
+[📝 介绍](#intro) | [🛒 购买](#buy) | [💰 优惠码](#coupon) | [⚙️ 注册与信息](#register) | [📖 教程](#usage)| [📖 交流](#jiaoliu)
 
 </div>
 
-**我该选择哪一款Just My Socks？** 一般来说，如果只是谷歌查资料，直接选择最便宜的方案就行，如果你爱看视频，并且非常频繁，那么就选择500或者1000的，需要注意的是<font color="red"> 便宜方案都有设备限制 </font> ，如果你想多个人一起用，那么建议选择1000的，不限制设备数量。
+---
 
-选择合适的Just My Socks方案后，点击“立即购买”进入购买页，确认配置无误后，建议年付（Annually），只需要付10个月的价格，点击：继续（Continue）：
+<span id="intro"></span>
+## 一、核心优势与介绍
 
-Just My Socks 官网：[Just My Socks 官网](https://justmysocks3.net/members/aff.php?aff=14295&language=chinese)
+> **为什么选择 Just My Socks?**
+> 它是 **搬瓦工 (BandwagonHost)** 官方推出的 Shadowsocks/V2ray 服务。
 
-[![Just My Socks 购买教程，若图片无法显示请点击查看](images/jms-1.png)](images/jms-1.png)  
+* 🛡️ **永不失联**：最大的优势是**保证 IP 不被墙**。如果 IP 被封，系统会自动检测并更换新的可用 IP。
+* 🚀 **极速线路**：每个账号提供 5 条线路，包含 **CN2 GIA** 高端线路，不仅看 4K 视频流畅，更能**完美支持 ChatGPT**、Google 学术等。
+* 🙌 **省心省力**：无需像 VPS 那样自己维护服务器，小白也能轻松上手。
 
-<span id="just_my_socks-3"></span>  
+---
 
-## 三、Just My Socks优惠码
+<span id="buy"></span>
+## 🛒 二、Just My Socks 购买方案
 
-在购买Just My Socks时，我们可以使用Just My Socks优惠码：**JMS9272283**获取5.2%循环优惠，输入优惠码后点击：验证代码（Validate Code）即可使用优惠码，点击：付款（Checkout）：
+### 🔥 热门推荐：洛杉矶线路 (CN2 GIA)
+*适合绝大多数用户，性价比最高，支持 ChatGPT/YouTube 4K。*
 
-[![Just My Socks优惠码，若图片无法显示请点击查看](images/jms-2.png)](images/jms-2.png)
+| 方案名称 | 带宽 | 流量/月 | 价格 | 设备限制 | 购买链接 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **LA 500** | 2.5 G | 500 GB | **$5.88/月** | 5 台 | [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=2&language=chinese) |
+| **LA 1000** | 5 G | 1 TB | **$9.88/月** | **无限制** | [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=3&language=chinese) |
+| **LA 5000** | 5 G | 5 TB | $48.99/月 | **无限制** | [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=4&language=chinese) |
 
-<span id="just_my_socks-4">  
+<br>
 
-## 四、Just My Socks注册
+### 🌏 高端线路：香港 / 东京 / 伦敦 / IPLC
+*适合对延迟有极致要求或需要特定地区IP的用户。*
 
-这里需要填写你Just My Socks账号的信息：**不要挂代理注册，如实填写**，否则可能被认为欺诈，其中省份直接写拼音即可（例如Shandong），选择支付方式为Paypal（Paypal）或 Alipay（支付宝），勾选同意服务条款后，点击：Complete Order（完成订单）：
+| 地区 | 方案 | 带宽 | 流量 | 价格 | 链接 |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| 🇬🇧 伦敦 | London 500 | 2.5 G | 500G | $6.80/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=12&language=chinese) |
+| 🇬🇧 伦敦 | London 1000 | 5 G | 1TB | $11.29/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=14&language=chinese) |
+| 🇭🇰 香港 | HK CMI+NTT | 2.5 G | 500G | $8.99/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=13&language=chinese) |
+| 🇯🇵 东京 | Tokyo 100 | 100M | 100G | $29.99/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=5&language=chinese) |
+| 🇯🇵 东京 | Tokyo 500 | 200M | 500G | $135.99/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=6&language=chinese) |
+| 🇭🇰 香港 | HongKong 100 | 100M | 100G | $34.99/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=7&language=chinese) |
+| 🇭🇰 香港 | HongKong 500 | 500M | 500G | $149.99/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=8&language=chinese) |
+| 🇭🇰 香港 | HongKong 1000| 1 G | 1000G | $279.99/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=11&language=chinese) |
+| 🇭🇰 香港 | **IPLC 专线** | 100M | 100G | $15.00/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=17&language=chinese) |
 
-[![Just My Socks 注册信息，若图片无法显示请点击查看](images/jms-3.png)](images/jms-3.png)
+> **💡 选购建议：**
+> * **查资料/轻度使用**：选最便宜的 **LA 500**。
+> * **多人使用/不限设备**：建议选择 **LA 1000**，不限制同时在线设备数量。
+> * **购买提示**：建议选择 **Annually (年付)**，仅需付 10 个月的价格即可用一年！
 
-付款完成后，你的Just My Socks服务就购买完成了。
+---
 
-<span id="just_my_socks-5">  
+<span id="coupon"></span>
+## 💰 三、独家优惠码
 
-## 五、Just My Socks信息查看</span>  
+在结账页面输入以下优惠码，可享受 **5.2% 终身循环优惠**：
 
-完成Just My Socks购买后，登陆[Just My Socks 官网](https://justmysocks3.net/members/aff.php?aff=14295&language=chinese)，选择Services（服务）->My Services（我的服务），就可以看到你刚才买的服务了，点击这个服务查看详情：
+# `JMS9272283`
 
-[![Just My Socks 我的服务，若图片无法显示请点击查看](images/jms-4.png)](images/jms-4.png)
+**使用方法：**
+1. 复制上方代码。
+2. 在订单结算页找到 "Apply Promo Code"。
+3. 输入代码并点击 "Validate Code" (验证代码)。
 
-这里就可以看到Shadowsocks/V2ray详情了，包括加密方式，端口，密码和IP（有5个节点，域名形式发放）等等：
+<div align="center">
+  <img src="images/jms-2.png" alt="Just My Socks优惠码使用演示" width="80%">
+</div>
 
-[![Just My Socks shadowsocks详情，若图片无法显示请点击查看](images/jms-5.png)](images/jms-5.png)
+---
 
-<span id="just_my_socks-6">  
+<span id="register"></span>
+## 📝 四、注册与信息查看
 
-## 六、Just My Socks怎么用
+### 1. 注册指引
+* **进入官网**：点击 [Just My Socks 官网](https://justmysocks3.net/members/aff.php?aff=14295&language=chinese)。
+* **填写信息**：⚠️ 注册时**不要开启代理**，否则可能被判定为欺诈。省份写拼音即可（如 Shandong）。
+* **支付**：支持 **Alipay (支付宝)** 或 PayPal。
 
-有了Shadowsocks/V2ray账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks/V2ray客户端（***请使用下图中的[Just My Socks 官网](https://justmysocks3.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html)的下载链接下载客户端***），然后将购买的服务器导入客户端即可使用啦。
+<div align="center">
+  <img src="images/jms-3.png" alt="注册信息填写" width="80%">
+</div>
 
-**第1～5条线路介绍**
+### 2. 查看节点信息
+购买完成后，在官网菜单选择 `Services` -> `My Services`，点击你购买的服务，即可看到：
+* 5 个节点域名
+* 加密方式 (Encryption)
+* 端口 (Port) & 密码 (Password)
 
-cXs1，cXs2和cXs5通过CN2 GT网络与其他中国联通和中国移动直接连接进行路由。
+<div align="center">
+  <img src="images/jms-5.png" alt="查看节点详情" width="80%">
+</div>
 
-服务器cXs3通过中国电信提供的CN2 GIA网络进行路由（仅中国电信路由）。
+---
 
-服务器cXs4通过高级中国移动混合路由（在返回路径上具有CN2 GIA）（仅中国移动路由）。
+<span id="usage"></span>
+## 📖 五、客户端下载与使用
 
-注意2020-08-11作为实验，某些cXs4服务器在返回路径上对所有3个运营商（CU / CM / CT）使用具有GIA支持的荷兰POP
+### 📥 客户端下载
+请直接访问官网知识库获取最新、最安全的客户端：
+👉 **[Just My Socks 官方下载链接](https://justmysocks3.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html)**
 
-**第6条线路：什么是Freedom服务器（s801）？**
+### ⚡ 线路说明 (硬核知识)
 
-Freedom服务器可以提供更多的数据传输，具体取决于当前的乘数。该服务器提供了较便宜的路由，并且不提供任何形式的保证。用它来节省您的每月数据传输配额。
+* **cXs1, cXs2, cXs5**: CN2 GT 网络（移动联通直连）。
+* **cXs3**: **CN2 GIA** 网络（中国电信高端线路，速度最快）。
+* **cXs4**: 高级中国移动混合路由。
+* **s801 (Freedom)**: 下载专用线路。流量消耗倍率更低（例如 10倍率，下载 10G 只算 1G 流量），但不保证速度和连通性。
 
-例如，如果当前数据传输倍数= 10，那么您下载的所有内容中只有1/10会计入每月数据配额。
+---
 
-实际示例：假设您下载20GB的文件。如果您使用s1..s5范围内的服务器进行下载，则系统将计入所有20GB的数据传输（加上任何TCP开销）。 但是，如果您使用服务器s801进行此传输，并且当前乘数为10，则系统将仅占该传输的1/10（20 GB / 10 = 2 GB）
+<span id="jiaoliu"></span>
+## 📢 一起交流 / 联系方式
 
-注意：数据传输乘数可以随时更改。官方不提供有关服务器s801的任何质量或正常运行时间保证。
 
-备注：上面是官方解释，简单点就是最后一条线路没有前面5条线路好，所以使用它时流量消耗会进行打折，相当于可以节省流量，但速度要慢点，主要取决于自己的需求。
 
-### 在just_my_socks网站，参考下图下载对应操作系统的客户端
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/您的用户名)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/您的电报群)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/您的频道地址)
 
-![SS客户端下载，若图片无法显示请点击查看](images/dccn.jpg)
-![SS client download，若图片无法显示请点击查看](images/dcen.jpg)
-
-**注意：如果购买后试用不满意，可申请退款：**[Just My Socks 怎么退款（退款条件）](jmstk.md)
-
-**反馈交流：**[如果有任何问题，欢迎大家交流！](https://github.com/zjgbql/justmysocks/issues)
+---  
+  
+<div align="center">
+<sub>Copyright © Just My Socks Guide. 非官方文档，仅供交流使用。</sub>
+</div>
