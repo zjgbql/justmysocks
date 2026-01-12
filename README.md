@@ -33,28 +33,27 @@
 ### 🔥 热门推荐：洛杉矶线路 (CN2 GIA)
 *适合绝大多数用户，性价比最高，支持 ChatGPT/YouTube 4K。*
 
-| 方案名称 | 带宽 | 流量/月 | 价格 | 设备限制 | 购买链接 |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **LA 500** | 2.5 G | 500 GB | **$5.88/月** | 5 台 | [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=2&language=chinese) |
-| **LA 1000** | 5 G | 1 TB | **$9.88/月** | **无限制** | [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=3&language=chinese) |
-| **LA 5000** | 5 G | 5 TB | $48.99/月 | **无限制** | [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=4&language=chinese) |
+| 方案 (Plan) | 配置详情 (Specs) | 价格 & 购买 |
+| :--- | :--- | :--- |
+| **LA 500** | 500 GB/月 <br> 2.5G 带宽 <br> 限制5台设备 | **$5.88 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=2&language=chinese) |
+| **LA 1000** | 1 TB/月 <br> 5G 带宽 <br> **不限设备** | **$9.88 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=3&language=chinese) |
+| **LA 5000** | 5 TB/月 <br> 5G 带宽 <br> **不限设备** | **$48.99 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=4&language=chinese) |
 
 <br>
 
 ### 🌏 高端线路：香港 / 东京 / 伦敦 / IPLC
 *适合对延迟有极致要求或需要特定地区IP的用户。*
 
-| 地区 | 方案 | 带宽 | 流量 | 价格 | 链接 |
-| :--- | :--- | :---: | :---: | :---: | :---: |
-| 🇬🇧 伦敦 | London 500 | 2.5 G | 500G | $6.80/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=12&language=chinese) |
-| 🇬🇧 伦敦 | London 1000 | 5 G | 1TB | $11.29/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=14&language=chinese) |
-| 🇭🇰 香港 | HK CMI+NTT | 2.5 G | 500G | $8.99/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=13&language=chinese) |
-| 🇯🇵 东京 | Tokyo 100 | 100M | 100G | $29.99/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=5&language=chinese) |
-| 🇯🇵 东京 | Tokyo 500 | 200M | 500G | $135.99/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=6&language=chinese) |
-| 🇭🇰 香港 | HongKong 100 | 100M | 100G | $34.99/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=7&language=chinese) |
-| 🇭🇰 香港 | HongKong 500 | 500M | 500G | $149.99/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=8&language=chinese) |
-| 🇭🇰 香港 | HongKong 1000| 1 G | 1000G | $279.99/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=11&language=chinese) |
-| 🇭🇰 香港 | **IPLC 专线** | 100M | 100G | $15.00/月 | [购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=17&language=chinese) |
+| 地区/方案 | 配置详情 | 价格 & 购买 |
+| :--- | :--- | :--- |
+| 🇬🇧 **London 500** | 500 GB/月 <br> 2.5G 带宽 | **$6.80 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=12&language=chinese) |
+| 🇬🇧 **London 1000** | 1 TB/月 <br> 5G 带宽 | **$11.29 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=14&language=chinese) |
+| 🇭🇰 **HK CMI+NTT** | 500 GB/月 <br> 2.5G 带宽 | **$8.99 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=13&language=chinese) |
+| 🇯🇵 **Tokyo 100** | 100 GB/月 <br> 100M 带宽 | **$29.99 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=5&language=chinese) |
+| 🇯🇵 **Tokyo 500** | 500 GB/月 <br> 200M 带宽 | **$135.99 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=6&language=chinese) |
+| 🇭🇰 **HK 100** | 100 GB/月 <br> 100M 带宽 | **$34.99 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=7&language=chinese) |
+| 🇭🇰 **HK 500** | 500 GB/月 <br> 500M 带宽 | **$149.99 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=8&language=chinese) |
+| 🇭🇰 **IPLC 专线** | 100 GB/月 <br> 100M 带宽 | **$15.00 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=17&language=chinese) |
 
 > **💡 选购建议：**
 > * **查资料/轻度使用**：选最便宜的 **LA 500**。
