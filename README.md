@@ -44,7 +44,7 @@ Just My Socks（简称 JMS，又称搬瓦工机场）是搬瓦工（BandwagonHos
 | [HK Premium 500](https://justmysocks3.net/members/aff.php?aff=14295&pid=8&language=chinese) | 500 GB · 5 台 | $149.99 |
 | [HK Premium 1000](https://justmysocks3.net/members/aff.php?aff=14295&pid=11&language=chinese) | 1000 GB · 不限设备 | $279.99 |
 
-带宽和其他详情请查看[官网完整套餐列表](https://justmysocks3.net/members/cart.php?gid=1&language=chinese)。
+带宽和其他详情请查看[官网完整套餐列表](https://justmysocks3.net/members/aff.php?aff=14295&gid=1&language=chinese)。
 
 </details>
 

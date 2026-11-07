@@ -14,7 +14,7 @@ Just My Socks (JMS) is a proxy service launched by BandwagonHost and an alternat
 
 LA 500 is a starting point for lighter use; LA 1000 offers more data and unlimited devices. Advertised bandwidth is 2.5 Gbps for LA 500 and 5 Gbps for LA 1000 and LA 5000. Actual speeds vary.
 
-For other Los Angeles, London, Tokyo and Hong Kong plans, see the [official store](https://justmysocks3.net/members/cart.php?gid=1&language=english). The Hong Kong China Mobile ONLY plans exclude China Telecom and China Unicom according to the store.
+For other Los Angeles, London, Tokyo and Hong Kong plans, see the [official store](https://justmysocks3.net/members/aff.php?aff=14295&gid=1&language=english). The Hong Kong China Mobile ONLY plans exclude China Telecom and China Unicom according to the store.
 
 ## Promo code
 
