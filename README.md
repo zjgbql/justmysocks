@@ -1,6 +1,8 @@
-# Just My Socks 选购与使用指南
+# Just My Socks 搬瓦工机场：套餐价格、优惠码与购买教程
 
-无需自建服务器的代理服务。先选套餐，再使用官方提供的订阅配置客户端。
+Just My Socks（简称 JMS，又称搬瓦工机场）是搬瓦工（BandwagonHost）推出的代理服务，适合寻找翻墙工具、科学上网服务或 VPN 替代方案的用户。与购买搬瓦工 VPS 后自行搭建代理不同，JMS 无需自己部署服务器：购买套餐后，可使用服务提供的订阅配置兼容客户端。
+
+本文整理 Just My Socks 套餐价格、优惠码、注册购买教程和客户端使用方法，帮助你选择洛杉矶、香港、东京或伦敦线路。
 
 [查看套餐](#选择套餐) · [优惠码](#优惠码) · [购买与使用](#购买与使用) · [English](en.md)
 
@@ -10,7 +12,7 @@
 
 ## 选择套餐
 
-**不知道怎么选？** 先看洛杉矶套餐：轻度使用选 LA 500；设备较多或流量需求更大，可以看 LA 1000。
+**Just My Socks 套餐怎么选？** 先看洛杉矶套餐：轻度使用选 LA 500；设备较多或流量需求更大，可以看 LA 1000。月付价格如下，点击套餐名称可进入官网购买。
 
 | 套餐 | 每月流量 · 设备 | 月付 |
 | :--- | :--- | ---: |
@@ -50,7 +52,7 @@
 
 ## 优惠码
 
-结算时输入 **`JMS9272283`**，点击 **Validate Code**。2026-11-07 在 LA 500 月付购物车中验证为 **5.2% 循环优惠**；其他套餐及后续有效性以结算页显示为准。
+购买 Just My Socks 时，在购物车输入优惠码 **`JMS9272283`**，点击 **Validate Code / 检验代码**。2026-11-07 在 LA 500 月付购物车中验证为 **5.2% 循环优惠**；其他套餐及后续有效性以结算页显示为准。
 
 例如 LA 500 月付由 $5.88 降至 $5.57。选择年付前，也请对照结算页面确认周期和价格。
 
@@ -59,16 +61,22 @@
 
 ## 购买与使用
 
+### Just My Socks 注册购买教程
+
 1. 点击上方套餐名称，在官网选择付款周期并继续。
 2. 在购物车填写优惠码，确认折扣、续费价格和套餐信息。
 3. 注册并完成支付。在官网 **Services → My Services** 打开服务，查看订阅链接或连接信息。
 4. 安装支持相应协议的客户端，导入服务页面提供的订阅，并根据需要更新订阅。
 
-**客户端提示：** 官方已将 s2–s5 和 s801 更新为 VLESS/Reality，旧客户端可能无法连接。可使用官方的 [Jamjams](https://jamjamsapp.com/) 或其他支持相应协议的客户端；请以[官方公告](https://justmysocks3.net/members/index.php?rp=/announcements&language=chinese)和服务页面为准。官网[软件下载说明](https://justmysocks3.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html&language=chinese)可能需要登录。
+### 客户端与订阅使用
+
+官方已将 s2–s5 和 s801 更新为 VLESS/Reality，旧版 Shadowsocks 或 V2Ray 客户端可能无法连接。可使用官方的 [Jamjams](https://jamjamsapp.com/) 或其他支持相应协议的客户端；请以[官方公告](https://justmysocks3.net/members/index.php?rp=/announcements&language=chinese)和服务页面为准。官网[软件下载说明](https://justmysocks3.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html&language=chinese)可能需要登录。
 
 <details>
 <summary>退款、使用限制与常见问题</summary>
 
+- **Just My Socks 和搬瓦工 VPS 有什么区别？** JMS 是现成的代理服务；VPS 是需要自行管理的服务器，搭建和维护代理通常需要自己完成。
+- **Just My Socks 能用来访问 ChatGPT、Google 或 YouTube 吗？** 具体访问效果受节点、目标服务的地区政策和风控影响，不能保证始终可用。
 - **退款**：官方要求同时满足多项条件，包括账户创建不超过 7 天、当月流量使用低于 10% 等。取消服务不等于自动退款；详见[退款说明](jmstk.md)及[官方条款](https://justmysocks3.net/members/index.php?rp=/knowledgebase/1/Terms-of-Service.html&language=chinese)。
 - **使用限制**：官方条款规定仅限个人、非商业用途，不允许转售，也禁止种子下载等行为。
 - **速度与网站访问**：实际体验受本地网络、运营商、节点及目标网站限制影响，不保证所有网站或 AI 服务始终可用。

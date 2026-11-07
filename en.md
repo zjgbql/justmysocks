@@ -1,8 +1,8 @@
-# Just My Socks: plans and setup
+# Just My Socks: BandwagonHost proxy plans and setup
 
 [中文指南](README.md)
 
-Just My Socks is a proxy service that does not require you to manage your own server. This is an unofficial guide. Plan links are affiliate links and may earn this project a commission. Check the official checkout for current availability, terms and prices.
+Just My Socks (JMS) is a proxy service launched by BandwagonHost and an alternative for people looking for a VPN. Unlike buying a VPS and setting up a proxy yourself, you can use the subscription provided with your plan to configure a compatible client. This is an unofficial guide. Plan links are affiliate links and may earn this project a commission. Check the official checkout for current availability, terms and prices.
 
 ## Popular Los Angeles plans
 
