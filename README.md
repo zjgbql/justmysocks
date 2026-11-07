@@ -1,136 +1,87 @@
-# 🚀 Just My Socks：搬瓦工官方机场服务
+# Just My Socks 选购与使用指南
 
-<div align="center">
+无需自建服务器的代理服务。先选套餐，再使用官方提供的订阅配置客户端。
 
-![Status](https://img.shields.io/badge/Status-Active-success.svg)
-![Support](https://img.shields.io/badge/Support-ChatGPT%20%7C%20Youtube-blue.svg)
-![Network](https://img.shields.io/badge/Network-CN2%20GIA-critical.svg)
-![Official](https://img.shields.io/badge/BandwagonHost-Official-orange.svg)
+[查看套餐](#选择套餐) · [优惠码](#优惠码) · [购买与使用](#购买与使用) · [English](en.md)
 
-**无需自建 • 自动换IP • 5条线路 • 极速稳定**
-
-[📝 介绍](#intro) | [🛒 购买](#buy) | [💰 优惠码](#coupon) | [⚙️ 注册与信息](#register) | [📖 教程](#usage)| [📖 交流](#jiaoliu)
-
-</div>
-
----
-
-<span id="intro"></span>
-## 一、核心优势与介绍
-
-> **为什么选择 Just My Socks?**
-> 它是 **搬瓦工 (BandwagonHost)** 官方推出的 Shadowsocks/V2ray 服务。
-
-* 🛡️ **永不失联**：最大的优势是**保证 IP 不被墙**。如果 IP 被封，系统会自动检测并更换新的可用 IP。
-* 🚀 **极速线路**：每个账号提供 5 条线路，包含 **CN2 GIA** 高端线路，不仅看 4K 视频流畅，更能**完美支持 ChatGPT**、Google 学术等。
-* 🙌 **省心省力**：无需像 VPS 那样自己维护服务器，小白也能轻松上手。
-
----
+> 非官方指南。套餐购买链接包含推广参数，购买后本项目可能获得佣金，不影响展示的价格。价格、线路和库存可能变化，下单前请以官网订单页面为准。
 
 <span id="buy"></span>
-## 🛒 二、Just My Socks 购买方案
 
-### 🔥 热门推荐：洛杉矶线路 (CN2 GIA)
-*适合绝大多数用户，性价比最高，支持 ChatGPT/YouTube 4K。*
+## 选择套餐
 
-| 方案 (Plan) | 配置详情 (Specs) | 价格 & 购买 |
-| :--- | :--- | :--- |
-| **LA 500** | 500 GB/月 <br> 2.5G 带宽 <br> 限制5台设备 | **$5.88 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=2&language=chinese) |
-| **LA 1000** | 1 TB/月 <br> 5G 带宽 <br> **不限设备** | **$9.88 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=3&language=chinese) |
-| **LA 5000** | 5 TB/月 <br> 5G 带宽 <br> **不限设备** | **$48.99 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=4&language=chinese) |
+**不知道怎么选？** 先看洛杉矶套餐：轻度使用选 LA 500；设备较多或流量需求更大，可以看 LA 1000。
 
-<br>
+| 套餐 | 每月流量 · 设备 | 月付 |
+| :--- | :--- | ---: |
+| **[LA 500](https://justmysocks3.net/members/aff.php?aff=14295&pid=2&language=chinese)** | 500 GB · 5 台 | $5.88 |
+| **[LA 1000](https://justmysocks3.net/members/aff.php?aff=14295&pid=3&language=chinese)** | 1 TB · 不限设备 | $9.88 |
+| **[LA 5000](https://justmysocks3.net/members/aff.php?aff=14295&pid=4&language=chinese)** | 5 TB · 不限设备 | $48.99 |
 
-### 🌏 高端线路：香港 / 东京 / 伦敦 / IPLC
-*适合对延迟有极致要求或需要特定地区IP的用户。*
+点击套餐名称进入官网购买。LA 500 标称带宽为 2.5 Gbps，LA 1000 和 LA 5000 为 5 Gbps；实际速度取决于网络状况。
 
-| 地区/方案 | 配置详情 | 价格 & 购买 |
-| :--- | :--- | :--- |
-| 🇬🇧 **London 500** | 500 GB/月 <br> 2.5G 带宽 | **$6.80 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=12&language=chinese) |
-| 🇬🇧 **London 1000** | 1 TB/月 <br> 5G 带宽 | **$11.29 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=14&language=chinese) |
-| 🇭🇰 **HK CMI+NTT** | 500 GB/月 <br> 2.5G 带宽 | **$8.99 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=13&language=chinese) |
-| 🇯🇵 **Tokyo 100** | 100 GB/月 <br> 100M 带宽 | **$29.99 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=5&language=chinese) |
-| 🇯🇵 **Tokyo 500** | 500 GB/月 <br> 200M 带宽 | **$135.99 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=6&language=chinese) |
-| 🇭🇰 **HK 100** | 100 GB/月 <br> 100M 带宽 | **$34.99 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=7&language=chinese) |
-| 🇭🇰 **HK 500** | 500 GB/月 <br> 500M 带宽 | **$149.99 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=8&language=chinese) |
-| 🇭🇰 **IPLC 专线** | 100 GB/月 <br> 100M 带宽 | **$15.00 / 月** <br> [👉 立即购买](https://justmysocks3.net/members/aff.php?aff=14295&pid=17&language=chinese) |
+<details>
+<summary>查看其他 14 个套餐：洛杉矶、伦敦、香港和东京</summary>
 
-> **💡 选购建议：**
-> * **查资料/轻度使用**：选最便宜的 **LA 500**。
-> * **多人使用/不限设备**：建议选择 **LA 1000**，不限制同时在线设备数量。
-> * **购买提示**：建议选择 **Annually (年付)**，仅需付 10 个月的价格即可用一年！
+香港 China Mobile ONLY 套餐仅适用于中国移动线路，官网标注不含中国电信和联通；香港 Premium 套餐标注支持三网。请根据运营商及目标地区选择。
 
----
+| 套餐 | 每月流量 · 设备 | 月付 |
+| :--- | :--- | ---: |
+| [LA 10000](https://justmysocks3.net/members/aff.php?aff=14295&pid=23&language=chinese) | 10 TB · 不限设备 | $93.99 |
+| [London 500](https://justmysocks3.net/members/aff.php?aff=14295&pid=12&language=chinese) | 500 GB · 5 台 | $6.80 |
+| [London 1000](https://justmysocks3.net/members/aff.php?aff=14295&pid=14&language=chinese) | 1 TB · 不限设备 | $11.29 |
+| [London 5000](https://justmysocks3.net/members/aff.php?aff=14295&pid=25&language=chinese) | 5 TB · 不限设备 | $59.99 |
+| [HK 移动 500](https://justmysocks3.net/members/aff.php?aff=14295&pid=13&language=chinese) | 500 GB · 5 台 | $8.99 |
+| [HK 移动 1000](https://justmysocks3.net/members/aff.php?aff=14295&pid=15&language=chinese) | 1 TB · 不限设备 | $14.90 |
+| [HK 移动 5000](https://justmysocks3.net/members/aff.php?aff=14295&pid=24&language=chinese) | 5 TB · 不限设备 | $59.99 |
+| [Tokyo 100](https://justmysocks3.net/members/aff.php?aff=14295&pid=5&language=chinese) | 100 GB · 3 台 | $29.99 |
+| [Tokyo 500](https://justmysocks3.net/members/aff.php?aff=14295&pid=6&language=chinese) | 500 GB · 5 台 | $135.99 |
+| [Tokyo 1000](https://justmysocks3.net/members/aff.php?aff=14295&pid=22&language=chinese) | 1000 GB · 不限设备 | $239.00 |
+| [Tokyo 5000](https://justmysocks3.net/members/aff.php?aff=14295&pid=26&language=chinese) | 5000 GB · 不限设备 | $1,135.00 |
+| [HK Premium 100](https://justmysocks3.net/members/aff.php?aff=14295&pid=7&language=chinese) | 100 GB · 3 台 | $34.99 |
+| [HK Premium 500](https://justmysocks3.net/members/aff.php?aff=14295&pid=8&language=chinese) | 500 GB · 5 台 | $149.99 |
+| [HK Premium 1000](https://justmysocks3.net/members/aff.php?aff=14295&pid=11&language=chinese) | 1000 GB · 不限设备 | $279.99 |
+
+带宽和其他详情请查看[官网完整套餐列表](https://justmysocks3.net/members/cart.php?gid=1&language=chinese)。
+
+</details>
 
 <span id="coupon"></span>
-## 💰 三、独家优惠码
 
-在结账页面输入以下优惠码，可享受 **5.2% 终身循环优惠**：
+## 优惠码
 
-# `JMS9272283`
+结算时输入 **`JMS9272283`**，点击 **Validate Code**。2026-11-07 在 LA 500 月付购物车中验证为 **5.2% 循环优惠**；其他套餐及后续有效性以结算页显示为准。
 
-**使用方法：**
-1. 复制上方代码。
-2. 在订单结算页找到 "Apply Promo Code"。
-3. 输入代码并点击 "Validate Code" (验证代码)。
-
-<div align="center">
-  <img src="images/jms-2.png" alt="Just My Socks优惠码使用演示" width="80%">
-</div>
-
----
+例如 LA 500 月付由 $5.88 降至 $5.57。选择年付前，也请对照结算页面确认周期和价格。
 
 <span id="register"></span>
-## 📝 四、注册与信息查看
-
-### 1. 注册指引
-* **进入官网**：点击 [Just My Socks 官网](https://justmysocks3.net/members/aff.php?aff=14295&language=chinese)。
-* **填写信息**：⚠️ 注册时**不要开启代理**，否则可能被判定为欺诈。省份写拼音即可（如 Shandong）。
-* **支付**：支持 **Alipay (支付宝)** 或 PayPal。
-
-<div align="center">
-  <img src="images/jms-3.png" alt="注册信息填写" width="80%">
-</div>
-
-### 2. 查看节点信息
-购买完成后，在官网菜单选择 `Services` -> `My Services`，点击你购买的服务，即可看到：
-* 5 个节点域名
-* 加密方式 (Encryption)
-* 端口 (Port) & 密码 (Password)
-
-<div align="center">
-  <img src="images/jms-5.png" alt="查看节点详情" width="80%">
-</div>
-
----
-
 <span id="usage"></span>
-## 📖 五、客户端下载与使用
 
-### 📥 客户端下载
-请直接访问官网知识库获取最新、最安全的客户端：
-👉 **[Just My Socks 官方下载链接](https://justmysocks3.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html)**
+## 购买与使用
 
-### ⚡ 线路说明 (硬核知识)
+1. 点击上方套餐名称，在官网选择付款周期并继续。
+2. 在购物车填写优惠码，确认折扣、续费价格和套餐信息。
+3. 注册并完成支付。在官网 **Services → My Services** 打开服务，查看订阅链接或连接信息。
+4. 安装支持相应协议的客户端，导入服务页面提供的订阅，并根据需要更新订阅。
 
-* **cXs1, cXs2, cXs5**: CN2 GT 网络（移动联通直连）。
-* **cXs3**: **CN2 GIA** 网络（中国电信高端线路，速度最快）。
-* **cXs4**: 高级中国移动混合路由。
-* **s801 (Freedom)**: 下载专用线路。流量消耗倍率更低（例如 10倍率，下载 10G 只算 1G 流量），但不保证速度和连通性。
+**客户端提示：** 官方已将 s2–s5 和 s801 更新为 VLESS/Reality，旧客户端可能无法连接。可使用官方的 [Jamjams](https://jamjamsapp.com/) 或其他支持相应协议的客户端；请以[官方公告](https://justmysocks3.net/members/index.php?rp=/announcements&language=chinese)和服务页面为准。官网[软件下载说明](https://justmysocks3.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html&language=chinese)可能需要登录。
 
----
+<details>
+<summary>退款、使用限制与常见问题</summary>
 
-<span id="jiaoliu"></span>
-## 📢 一起交流 / 联系方式
+- **退款**：官方要求同时满足多项条件，包括账户创建不超过 7 天、当月流量使用低于 10% 等。取消服务不等于自动退款；详见[退款说明](jmstk.md)及[官方条款](https://justmysocks3.net/members/index.php?rp=/knowledgebase/1/Terms-of-Service.html&language=chinese)。
+- **使用限制**：官方条款规定仅限个人、非商业用途，不允许转售，也禁止种子下载等行为。
+- **速度与网站访问**：实际体验受本地网络、运营商、节点及目标网站限制影响，不保证所有网站或 AI 服务始终可用。
+- **连接异常**：先更新客户端和订阅，再尝试其他可用节点；具体线路、协议和流量计算以服务页面为准。
+- **支持**：服务由用户自行管理；官方条款说明不提供客户端安装、配置及故障排查支持。
 
+</details>
 
+<details>
+<summary>关于本指南与交流</summary>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shachepi) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shachepi)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+YKBxwTRYEt85OWI9)
+本项目为非官方指南，与 Just My Socks 无官方隶属关系。套餐信息核对日期：2026-11-07；优惠码仅按上述 LA 500 月付场景验证。购买前请再次确认官方价格、条款和库存。
 
----  
-  
-<div align="center">
-<sub>Copyright © Just My Socks Guide. 非官方文档，仅供交流使用。</sub>
-</div>
+交流：[GitHub Issues](https://github.com/zjgbql/justmysocks/issues) · [X](https://x.com/shachepi) · [YouTube](https://www.youtube.com/@shachepi) · [Telegram](https://t.me/+YKBxwTRYEt85OWI9)
+
+</details>

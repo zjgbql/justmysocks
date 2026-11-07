@@ -1,114 +1,41 @@
-<span id = "head"></span>
+# Just My Socks: plans and setup
 
-# Highly recommended! `Just My Socks`-Very reliable and stable `Shadowsocks/V2ray` proxy service!
+[中文指南](README.md)
 
-## Article directory 
+Just My Socks is a proxy service that does not require you to manage your own server. This is an unofficial guide. Plan links are affiliate links and may earn this project a commission. Check the official checkout for current availability, terms and prices.
 
-* <a href="#user-content-just1"> Introduction to `Just My Socks` </a> 
-* <a href="#user-content-just2"> `Just My Socks` purchase </a> 
-* <a href="#user-content-just3"> `Just My Socks` coupon code </a> 
-* <a href="#user-content-just4"> `Just My Socks` registration </a> 
-* <a href="#user-content-just5"> `Just My Socks` information review </a> 
-* <a href="#user-content-just6"> How to use `Just My Socks` </a> 
+## Popular Los Angeles plans
 
+| Plan | Monthly data · devices | Monthly price |
+| :--- | :--- | ---: |
+| **[LA 500](https://justmysocks3.net/members/aff.php?aff=14295&pid=2&language=english)** | 500 GB · 5 devices | $5.88 |
+| **[LA 1000](https://justmysocks3.net/members/aff.php?aff=14295&pid=3&language=english)** | 1 TB · unlimited devices | $9.88 |
+| **[LA 5000](https://justmysocks3.net/members/aff.php?aff=14295&pid=4&language=english)** | 5 TB · unlimited devices | $48.99 |
 
-`Just My Socks` is currently a very hot `Shadowsocks/V2ray` service provider, officially launched by the [BandwagonHost](https://bandwagonhost.com/aff.php?aff=14295), each service provides 5 lines, including the fastest CN2 GIA line. The biggest advantage of `Just My Socks` is to ensure that the IP is not blocked. If the IP is blocked, it will automatically replace the new available IP to the user. For friends who just need to look over YouTube, Ins or Google and Google Scholar, `Just My Socks` is a very suitable choice.
+LA 500 is a starting point for lighter use; LA 1000 offers more data and unlimited devices. Advertised bandwidth is 2.5 Gbps for LA 500 and 5 Gbps for LA 1000 and LA 5000. Actual speeds vary.
 
-## <span id = "user-content-just1"> <span id = "just_my_socks"> I. Introduction to `Just My Socks` </span> </span>
+For other Los Angeles, London, Tokyo and Hong Kong plans, see the [official store](https://justmysocks3.net/members/cart.php?gid=1&language=english). The Hong Kong China Mobile ONLY plans exclude China Telecom and China Unicom according to the store.
 
-`Just My Socks` is a `Shadowsocks/V2ray` proxy service officially launched by <strong>  [BandwagonHost](https://bandwagonhost.com/aff.php?aff=14295) </strong>. It supports Paypal payment , Each user get 5 lines, including <strong> BandwagonHost CN2 GIA lines </strong>, Cost-effective and very stable, more flexible and cost-effective than buying a VPS, and saves toss. 
+## Promo code
 
-<strong> Is `Just My Socks` reliable? </strong> Unlike other `Shadowsocks/V2ray` Service, `Just My Socks` is officially launched by [BandwagonHost](https://bandwagonhost.com/aff.php?aff=14295) and Has been operating stably for nearly 6 years (went online in October 2018). It can be said to be very reliable.
+Enter **`JMS9272283`** and select **Validate Code** at checkout. On 2026-11-07, the LA 500 monthly cart accepted it as a **5.2% recurring discount**, reducing $5.88 to $5.57. Eligibility and future availability may change; check the order summary.
 
-<strong> How about `Just My Socks`? </strong> Each user get 5 lines, including the fastest CN2 GIA line, which is very fast.
+## Purchase and setup
 
-<strong> Who is right for `Just My Socks`? </strong> If you are just looking at YouTube, brushing ins, or Google just to look over the wall, then you Don't need to toss VPS at all, you can build your own ss, `Just My Socks` can easily meet these needs. <strong> `Just My Socks` disadvantages </strong>: Can't watch Netflix.
+1. Open a plan above, select a billing cycle and continue.
+2. Apply the promo code and check the plan, initial charge and renewal price.
+3. Register and pay, then open **Services → My Services** to find the service's subscription link or connection details.
+4. Install a compatible client and import the subscription provided for your service.
 
-<strong> Supported protocols: TCP or UDP? </strong>
-`Just My Socks` 100 only supports the TCP protocol, which is sufficient for browsing the web and using most streaming services such as YouTube. All packages starting from `Just My Socks` 500 support TCP and UDP protocols (see note below). Voice protocols (such as WhatsApp and some VOIP implementations) may require the UDP protocol. If your package is `Just My Socks` 100 and you want to use the UDP protocol, then you will need to upgrade to the `Just My Socks` 500 package.
+The provider has migrated s2–s5 and s801 to VLESS/Reality. Older clients may no longer connect. Use the official [Jamjams app](https://jamjamsapp.com/) or another compatible client, and consult the [official announcements](https://justmysocks3.net/members/index.php?rp=/announcements&language=english). The provider's [software download page](https://justmysocks3.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html&language=english) may require login.
 
-## <span id = "user-content-just2"> <span id = "just_my_socks-2"> Second, `Just My Socks` purchase </span> </span>
+<details>
+<summary>Refunds, limitations and support</summary>
 
- At present, `Just My Socks` has a total of 3 plans: 
+Full refunds are subject to all of the conditions in the [official terms](https://justmysocks3.net/members/index.php?rp=/knowledgebase/1/Terms-of-Service.html&language=english), including an account age of no more than seven days and monthly data usage under 10%. Cancelling does not automatically grant a refund. See the [Chinese refund guide](jmstk.md) for a summary.
 
-<table id = "tablepress-1">
-<thead>
-<tr>
-<th>Plan name</th>
-<th>Buy link</th>
-<th>Bandwidth</th>
-<th>Traffic</th>
-<th>Price</th>
-<th>Device restrictions</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>JMS500</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&pid=1" target="_blank"> Buy now </a></td>
-<td>2.5 GB</td>
-<td>500 GB / month</td>
-<td>$ 5.88 / month</td>
-<td>Up to 5 devices are online at the same time (currently out of stock)</td>
-</tr>
-<tr>
-<td>JMS1000</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&pid=2" target="_blank"> Buy now </a></td>
-<td>5 GB</td>
-<td>1TB / month</td>
-<td>$ 9.88 / month</td>
-<td>Unlimited number of devices</td>
-</tr>
-<tr>
-<td>JMS5000</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&pid=3" target="_blank"> Buy now </a></td>
-<td>5 GB</td>
-<td>5TB / month</td>
-<td>$ 48.99 / month</td>
-<td>Unlimited number of devices</td>
-</tr>
-</tbody>
-</table>
+The official terms limit services to personal, non-commercial use and prohibit resale and torrenting. Service is self-managed; the provider does not assist with client setup or troubleshooting. Speed and access to particular websites are not guaranteed.
 
-<strong> Which `Just My Socks` should I choose? </strong> In general, if you just check the information on Google, you can choose the cheapest solution directly. If you like to watch videos and it is very frequent, then choose 500 or 1000. Please note that <span style = "color : # ff0000; "> There are device restrictions for cheaper solutions </span>, if you want to use it with multiple people, then it is recommended to choose 1000, without limiting the number of devices.
+</details>
 
-After choosing the appropriate `Just My Socks` plan, click "Buy Now" to enter the purchase page. After confirming that the configuration is correct, it is recommended to pay Annually. You only need to pay for 10 months. Click Continue to continue:
-<br class="keepp">
-`Just My Socks` official website: <a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295&gid=1" target="_blank"> `Just My Socks` official website </a>
-
-<a href="images/jms-1.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="images/jms-1.png" alt =" `Just My Socks` Buying Tutorial "/> </a>
-## <span id = "user-content-just3"> <span id = "just_my_socks-3"> Three, `Just My Socks` discount code </span> </span>
-
-When buying `Just My Socks`, we can use the `Just My Socks` discount code: <strong> JMS9272283 </strong> to get a 5.2% recurring discount. After entering the discount code, click Validate Code to use the discount code. Click Checkout to pay:
-<br class="keepp">
-<a href="images/jms-2.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="images/jms-2.png" alt =" `Just My Socks` discount code "/> </a>
-
-## <span id = "user-content-just4"> <span id = "just_my_socks-4"> Fourth, `Just My Socks` registration </span> </span>
-
-Here you need to fill in your `Just My Socks` account information: <strong> Don't hang the agent registration, fill it out truthfully </strong>, otherwise it may be considered fraudulent, where the province can write Pinyin directly (such as Shandong), and choose the payment method as Paypal ( Paypal is more secure) . After ticking the terms of service, click Complete Order to complete the order:
-<br class="keepp">
-<a href="images/jms-3.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="images/jms-3.png" alt =" `Just My Socks` registration information "/> </a>
-<br class="keepp">
-After paying , your `Just My Socks` service is purchased.
-
-## <span id = "user-content-just5"> <span id = "just_my_socks-5"> Fifth, `Just My Socks` information view </span> </span>
-
-After completing `Just My Socks` purchase, log in to <a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295" target="_blank"> `Just My Socks` official website </a>, select Services-> My Services, and you will see you Just bought the service, click this service to see details:
-<br class="keepp">
-<a href="images/jms-4.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="images/jms-4.png" alt =" `Just My Socks` My Services "/> </a>
-
-Here you can see the details of `Shadowsocks/V2ray` servers, including encryption method, port, password and IP(5 nodes, issued in the form of domain name) etc.:
-<br class="keepp">
-<a href="images/jms-5.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="images/jms-5.png" alt =" `Just My Socks` `Shadowsocks` details "/> </a>
-
-## <span id = "user-content-just6"> <span id = "just_my_socks-6"> Six, how to use `Just My Socks` </span> </span>
-
-After I have a `Shadowsocks/V2ray` server, how do I use it next? The rest only needs to download and install the `Shadowsocks/V2ray` client and import the purchased server to use it.
-
-<h3> On the <a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=14295" target="_blank">just_my_socks website</a>, refer to the following figure to download the client corresponding to the operating system </h3>
-
-<img style = "max-width: 100%" src = "images/dcen.jpg" alt = "SS client download" />
-
- <strong> Note: If you are not satisfied with the trial after purchase, you can request a refund: </strong> <a href="jmstk.md" rel="nofollow"> How does `Just My Socks` refund? (Refund conditions) </a> 
-
- <strong> Feedback and communication: </strong> <a href="https://github.com/zjgbql/justmysocks/issues" rel="nofollow"> If you have any questions, welcome everyone communicate with! </a> 
+Prices were checked on 2026-11-07. This guide is not affiliated with the provider. [Questions or feedback](https://github.com/zjgbql/justmysocks/issues).

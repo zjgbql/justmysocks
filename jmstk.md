@@ -1,1 +1,15 @@
-````<div class="wrap fl``ex-center"><div class="site-width container flex-space-between"><main id="barba-wrapper" aria-live="polite"><div class="barba-container"><article class="bgc-white shadow"><header class="post-header"><h1 class="post-title">Just My Socks 怎么退款</h1></header><div class="post-content"><p>如果你感觉 Just My Socks 速度慢，觉得不满意，那你可以申请 Just My Socks 退款的！</p><h2 id="退款条件">退款条件</h2><p>客户可以要求全额退款的服务, 前提是满足以下所有条件:</p><ol><li>客户的账户信誉良好, 没有违反整个服务条款<br></li><li>以前没有任何付款或目前有争议<br></li><li>每月数据传输使用率低于 10％<br></li><li>该帐户是在 7天内 或更短的时间前创建的<br></li><li>客户未使用其他账户退款的权利<br><br></li></ol><p>退款按原付款方式退回。</p><p>退款处理后, 帐户可用于未来订单, 但不再有退款资格。</p><p>官方原文：</p><p>Customer may cancel services at any time in the billing control panel.</p><p>Customer may request a full refund for service provided all of the following conditions are met:</p><ol><li>Customer’s account is in good standing and there have been no violations of Terms of Services<br></li><li>None of the payments have been previously or currently disputed<br></li><li>Monthly data transfer usage is under 10%<br></li><li>Customer’s account was created 7 or fewer days ago<br></li><li>Client had not used the right to Refund previously under current or different account<br><br></li></ol><p>Refunds are issued to the original form of payment.</p><p>After the refund is processed, account may be used for future orders, however it will not be eligible for further refunds.</p><p>内容来自 Just My Socks 官方的 <a href="https://justmysocks3.net/members/index.php?rp=/knowledgebase/1/Terms-of-Service.html" rel="nofollow" target="_blank">Terms of Service</a> 说明</p><h2 id="申请退款">申请退款</h2><p>打开<a href="https://justmysocks3.net/members/aff.php?aff=14295" rel="nofollow" target="_blank">Just My Socks 网站</a></p><p>然后在 Just My Socks 官网菜单，选择 Services &gt; My Services</p><p>然后会看到你已购买的产品信息，Status 显示 <code>Active</code> 的，即为当前可用的！</p><img src="images/5c8dec95b402d.webp" alt="查看服务" loading="lazy" referrerpolicy="no-referrer"><p>点击进去之后，在左侧找到 <code>Request Refund</code> ，即是申请退款选项！如果你要退款，那就点击它！！！</p><img src="images/5ce76e2da60b032480.webp" alt="Just My Socks 退款" loading="lazy" referrerpolicy="no-referrer"><p>备注，你可能需要再点击一下类似 <code>Request full refund for this service</code> 的按钮。</p><p>退款方式是原路退回的，比如说你是使用了支付宝付款的，那么到时候也是退款到支付宝的。</p>
+# Just My Socks 退款说明
+
+[返回选购指南](README.md)
+
+官网说明可以随时在账单控制面板取消服务，但**取消服务不等于自动获得退款**。申请全额退款须同时满足以下条件：
+
+1. 账户状态良好，未违反服务条款。
+2. 没有此前或正在进行的付款争议。
+3. 当月数据传输使用量低于 10%。
+4. 账户创建时间不超过 7 天。
+5. 客户此前未使用过当前或其他账户的退款权利。
+
+官方表示退款退回原支付方式；退款后账户仍可用于将来下单，但不再有退款资格。具体资格、申请入口和处理方式以[官方服务条款](https://justmysocks3.net/members/index.php?rp=/knowledgebase/1/Terms-of-Service.html&language=chinese)及账户页面为准；如有疑问，请联系官方支持。
+
+以上内容依据 2026-11-07 查阅的官方条款整理，条款可能变化。
